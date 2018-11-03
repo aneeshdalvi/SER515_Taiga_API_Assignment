@@ -84,6 +84,7 @@ for values in resp.json():
     else:
         print("Closed Points / Total Points  -- " + str(closed_points) + " / " + str(values["total_points"]) + "\n")
 
+#team member name variables to count the no of task assigned to each
 josh = 0
 aneesh = 0
 viraj = 0
